@@ -45,6 +45,5 @@ If you’d like to suggest a feature or fix a bug:
 
 ---
 
-## 📜 License  
-This project is licensed under the [MIT License](LICENSE).
+
 
