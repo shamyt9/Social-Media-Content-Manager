@@ -2,7 +2,7 @@
 ---
 
 ## 📥 Download  
-👉 [**Download Latest APK**](https://github.com/YourUsername/SocialMediaContentManager/releases/download/v1.0/app-debug.apk)  
+👉 [**Download Latest APK**](https://drive.google.com/file/d/1HqMLGSzDMm_HzrJcEMLRIFR1NUrZG_9j/view?usp=sharing)  
 
 *(Replace the link above with your GitHub Release APK URL)*  
 
