@@ -4,7 +4,6 @@
 ## 📥 Download  
 👉 [**Download Latest APK**](https://drive.google.com/file/d/1HqMLGSzDMm_HzrJcEMLRIFR1NUrZG_9j/view?usp=sharing)  
 
-*(Replace the link above with your GitHub Release APK URL)*  
 
 ---
 
@@ -38,10 +37,10 @@ If you’d like to suggest a feature or fix a bug:
 ---
 
 ## 👨‍💻 Developer  
-**Developer:** [Your Name]  
-📧 **Contact:** [your email or portfolio link]  
-🎥 **YouTube:** [EduExpress or your channel link]  
-🌐 **Website:** [your site if available]
+**Developer:** Shamshad Ali  
+📧 **Contact:** mrsham456sa@gmail.com  
+🎥 **YouTube:** eduexpress 
+🌐 **Website:** https://shamyt9.github.io/ShamVerse/dist
 
 ---
 
